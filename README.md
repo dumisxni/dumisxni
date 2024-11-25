@@ -18,7 +18,7 @@
 ---
 
 ## 🌟 **Featured Project**
-### [Tic-Tac-Toe Java Game](https://github.com/dumisxni/dumisxni)
+### [Tic-Tac-Toe Java Game](https://github.com/dumisxni/TicTac.git)
 A simple text-based Tic-Tac-Toe game where players compete against a computer.  
 
 **Features**:
